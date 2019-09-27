@@ -15,3 +15,5 @@ Under the hood , it uses and leverages the Camera 2 APIs. It basically provide s
 It also has a lot of awesome advanced features like Portrait, HDR, Night mode etc (Provided your Device supports that).
 CameraX has also introduced USECASES which allow you to focus on the task you need to get it done and not waste your time with specific devices.Few of them are Preview , Image Analysis, Image Capture.
 CameraX doesn't have specific call/stop methods in onResume() and onPause() but it binds to lifecycle of the View with help of CameraX.bindToLifecycle()
+
+![image](https://user-images.githubusercontent.com/39657409/65773346-c4b44c00-e159-11e9-8528-6495f4842694.png)
